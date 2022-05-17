@@ -1,2 +1,8 @@
+resolved!
 last try! fconflict local
 sample text in fconflict local
+
+d
+
+last try! fconflict remote
+sample text in fconflict remote
