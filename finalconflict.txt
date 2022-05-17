@@ -1,0 +1,2 @@
+last try! fconflict remote
+sample text in fconflict remote
